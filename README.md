@@ -1,5 +1,4 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lsqsm15qshgrxc84s1rvvyteu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=false&bar_color=000000)](https://spotify-github-profile.kittinanx.com/api/view?uid=lsqsm15qshgrxc84s1rvvyteu&redirect=true)
-[![Lobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoboThExile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LoboThExile/LoboThExile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
