@@ -5,7 +5,7 @@
 
 Hello I am Lobo, That guy that codes badly..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoboThExile)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoboThExile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
 Nothing..
