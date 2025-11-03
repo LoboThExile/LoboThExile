@@ -14,6 +14,7 @@ Nothing..
 - Java
 - Python
 - C++
+- Luau
 
 ## Contact me
 
