@@ -19,9 +19,9 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hai, I'm",
+    "greeting": "Heya! I'm",
     "name": "",
-    "subtitle": "I code stuff. (badly)",
+    "subtitle": "I code, build, and create stuff.",
     "typing": true,
     "avatarShape": "pill",
     "chips": [
@@ -35,7 +35,7 @@
       },
       {
         "icon": "code",
-        "label": "Luau, Python"
+        "label": "Luau, Python, C++"
       }
     ]
   },
@@ -43,16 +43,16 @@
     "title": "About me",
     "items": [
       {
-        "icon": "person",
-        "label": "16yo"
+        "icon": "school",
+        "label": "Student dev"
       },
       {
-        "icon": "code",
+        "icon": "database",
         "label": "Mostly backend"
       },
       {
         "icon": "terminal",
-        "label": "Maybe vibecoding"
+        "label": "IoT & Hardware tinkering"
       }
     ]
   },
