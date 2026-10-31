@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "login": "lobothexile",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hai, I'm",
+    "name": "",
+    "subtitle": "I code stuff. (badly)",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "person",
+        "label": "he / they"
+      },
+      {
+        "icon": "location_on",
+        "label": "Asia"
+      },
+      {
+        "icon": "code",
+        "label": "Luau, Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "16yo"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      },
+      {
+        "icon": "terminal",
+        "label": "Maybe vibecoding"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:luau",
+            "label": "Luau"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "deployed_code",
+            "label": "McFunction"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:robloxstudio",
+            "label": "Roblox Studio"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github (duh)"
+          },
+          {
+            "icon": "brand:blender",
+            "label": "Blender"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Operating System",
+        "items": [
+          {
+            "icon": "widgets",
+            "label": "Windows 11"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux (btw)"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "SecurityAlarmArduino",
+      "The-Wild-Hunt",
+      "Pointmatch",
+      "SemestraEnterprise"
+    ],
+    "overrides": {
+      "The-Wild-Hunt": {
+        "icon": "brand:spigotmc"
+      },
+      "Pointmatch": {
+        "text": "1v1, with shop."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/690499153775558719"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@lobothexile"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "guns.lol",
+        "url": "https://guns.lol/lobothexile",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/LoboThExile?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
