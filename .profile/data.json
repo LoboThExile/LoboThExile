@@ -1,7 +1,7 @@
 {
- "key": "c34c7557",
+ "key": "318cdfda",
  "stars": 1,
- "contributions": 432,
+ "contributions": 403,
  "repos": 12,
  "followers": 1,
  "languages": [
@@ -105,9 +105,13 @@
    {
     "c": 5,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
